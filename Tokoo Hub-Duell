@@ -8,7 +8,7 @@ print("Dein Username:", playerName)
 
 -- ✅ WHITELIST
 local whitelist = {
-    "waffel_dob6 ",
+    "waffel_dob6",
     "Paparavioli18", 
 }
 
